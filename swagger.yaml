@@ -3,6 +3,9 @@ info:
   description: "This is a Classifier Application for categorizing text"
   title: Classifier API
   version: "1.0.0"
+  tags:
+  - name: Prediction Functions
+    description:
 consumes:
   - application/json
 produces:
