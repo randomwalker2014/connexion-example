@@ -1,4 +1,5 @@
 connexion>=1.1.4
+swagger-ui-bundle
 gevent>=1.1.2
 numpy==1.13
 scipy==0.19.1
