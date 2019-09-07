@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
-  description: "This is a Classifier Application that categorizes text"
-  title: Classifier API YAML.
+  description: "This is a Classifier Application for categorizing text"
+  title: Classifier API
   version: "1.0.0"
 consumes:
   - application/json
