@@ -3,7 +3,7 @@ info:
   description: "This is a Classifier Application for categorizing text"
   title: Classifier API
   version: "1.0.0"
-  tags:
+tags:
   - name: Prediction Functions
     description:
 consumes:
