@@ -6,6 +6,7 @@ info:
 tags:
   - name: predictions
     description: Classifier Predictions
+basePath: /v1
 consumes:
   - application/json
 produces:
@@ -14,6 +15,8 @@ produces:
 paths:
   /predictions:
     post:
+      tags:
+        - predictions   
       operationId: app.post_predictions
       summary: Predicts categories of the given news articles
       parameters:
