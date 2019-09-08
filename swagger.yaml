@@ -4,8 +4,8 @@ info:
   title: Classifier API
   version: "1.0.0"
 tags:
-  - name: Prediction Functions
-    description:
+  - name: predictions
+    description: Classifier Predictions
 consumes:
   - application/json
 produces:
