@@ -4,7 +4,7 @@ import connexion
 
 from sklearn.externals import joblib
 
-classifier = joblib.load('/home/shared/pub-api/text-classification/classfication-model-001.pkl')
+classifier = joblib.load('./model/model.pkl')
 print ('Model loaded')
 
 
