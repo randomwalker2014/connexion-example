@@ -1,4 +1,4 @@
-# Simple scikit learn classifier example
+# scikit learn classifier 
 
 * ``classifier``: Directory containing simple Jupyter notebook to train a news classifier and pickled version of the classifier
 * ``swagger.yaml``: REST API Swagger definition
