@@ -4,7 +4,7 @@
 * ``swagger.yaml``: REST API Swagger definition
 * ``app.py``: basic rest endpoints
 * ``requirements.txt``: list of required Python libraries
-* ``test.sh``: shell script to execute example HTTP requests against the pet shop API
+* ``test.sh``: shell script to execute example HTTP requests against the pet shop API.
 
 
 Running Locally
