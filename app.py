@@ -4,7 +4,7 @@ import connexion
 
 from sklearn.externals import joblib
 
-classifier = joblib.load('./classifier/model.pkl')
+classifier = joblib.load('/home/shared/pub-api/text-classification/model.pkl')
 
 
 def post_predictions(query):
