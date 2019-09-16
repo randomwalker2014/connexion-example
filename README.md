@@ -14,7 +14,6 @@ You can run the Python application directly on your local operating system:
     $ sudo pip3 install -r requirements.txt
     $ ./app.py # start the HTTP server
 ```
-
  - Connexion: https://pypi.python.org/pypi/connexion
  - Flask: http://flask.pocoo.org/
  - Swagger 2.0 Specification: https://github.com/swagger-api/swagger-spec/blob/master/versions/2.0.md
