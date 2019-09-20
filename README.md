@@ -8,7 +8,6 @@
 Running Locally
 ===============
 
-
 You can run the Python application directly on your local operating system:
 
 ```bash
