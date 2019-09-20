@@ -10,6 +10,7 @@ Running Locally
 
 You can run the Python application directly on your local operating system:
 
+
 ```bash
     $ sudo pip3 install -r requirements.txt
     $ ./app.py # start the HTTP server
